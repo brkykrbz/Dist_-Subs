@@ -52,4 +52,7 @@ EKİP ÜYELERİ
 PROJE VİDEOSU 
 
 
+https://www.youtube.com/watch?v=YnRaFe-av2A
+
+
 
