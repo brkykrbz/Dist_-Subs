@@ -42,5 +42,7 @@ EKİP ÜYELERİ
 
 
 22060341 Reşit Berkay Kırboz
+
 22060395 Hakan Erikçi
+
 22060372 Berkay Anaklı
