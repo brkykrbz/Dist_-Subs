@@ -3,11 +3,16 @@ Proje Amacı
 Bu proje, Protobuf teknolojisini kullanarak dağıtık bir abonelik yönetim sistemi geliştirmeyi hedeflemektedir. Sistem, sunucular, istemciler, bir yönetim paneli (admin) ve veri görselleştirme aracı (plotter) gibi bileşenlerden oluşmaktadır. Her bir bileşen, TCP soketleri aracılığıyla iletişim kurar ve veri alışverişi, Protobuf formatında tanımlanmış mesajlar üzerinden gerçekleştirilir.
 
 Program Çıktıları:
+
+
  Server 1 için: 
+
+ 
 ![image](https://github.com/user-attachments/assets/7e47becc-34c9-4e78-9340-e89b869334fc)
 
 
 Server 2 için:
+
 
 ![image](https://github.com/user-attachments/assets/2fabce07-5177-46c1-91fd-8d26c8fc0ba3)
 
@@ -15,7 +20,9 @@ Server 2 için:
 
 Servr 3 için:
 
+
 ![image](https://github.com/user-attachments/assets/cf2986d2-2865-44ab-834f-b6ad0ad03942)
+
 
 
 PROJE BEKLENTİLERİ
@@ -32,6 +39,8 @@ Plotter (Veri Görselleştirici): Plotter, sunucuların kapasite bilgilerini top
 
 
 EKİP ÜYELERİ
+
+
 22060341 Reşit Berkay Kırboz
 22060395 Hakan Erikçi
 22060372 Berkay Anaklı
