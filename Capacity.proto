@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message Capacity {
-    int32 server_id = 1;      
-    int32 server_status = 2;  
-    int64 timestamp = 3;      
-}
