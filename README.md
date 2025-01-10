@@ -46,3 +46,10 @@ EKİP ÜYELERİ
 22060395 Hakan Erikçi
 
 22060372 Berkay Anaklı
+
+
+
+PROJE VİDEOSU 
+
+
+
